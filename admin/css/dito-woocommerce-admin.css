@@ -1,0 +1,80 @@
+#dito-settings {
+  background: #FFF;
+  border: 1px #DDD solid;
+  border-bottom-color: #CCC;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+#dito-settings-header {
+  margin: -30px -30px 30px;
+  padding: 30px;
+  border-radius: 5px 5px 0 0;
+  background: #f6f6f6;
+  border-bottom: 1px #DDD solid;
+}
+
+#dito-settings-header #dito-settings-header-title {
+  display: inline-block;
+  font-size: 18px;
+  color: #999;
+  font-weight: 600;
+  margin-left: 20px;
+  text-transform: uppercase;
+  position: relative;
+  top: -9px;
+}
+
+#dito-settings #dito-settings-content #dito-settings-notes {
+  background: #FDF8E8;
+  border: 1px #E7E1D0 solid;
+  border-bottom-width: 3px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#dito-settings #dito-settings-content #dito-settings-notes #dito-settings-notes-title {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+}
+
+#dito-settings #dito-settings-content #dito-settings-notes ul {
+  margin: 0;
+  padding: 0 0 0 20px;
+  list-style: circle;
+}
+
+#dito-settings #dito-settings-content #dito-settings-notes ul li {
+  line-height: 1;
+}
+
+#dito-settings #dito-settings-content .dito-settings-box h3 {
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+  color: #999;
+}
+
+#dito-settings #dito-settings-content .dito-settings-box + .dito-settings-box {
+  border-top: 1px #DDD solid;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+#dito-settings #dito-settings-content .dito-settings-box .dito-how-to {
+  font-size: 12px;
+}
+
+#dito-settings #dito-settings-content .dito-settings-box .dito-image-tutorial {
+  font-size: 11px;
+  text-align: center;
+}
+#dito-settings #dito-settings-content .dito-settings-box .dito-image-tutorial img {
+  height: 80px;
+}
+
+#dito-settings #dito-settings-content table td {
+  vertical-align: top;
+}
