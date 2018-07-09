@@ -67,8 +67,8 @@ class Dito_Woocommerce {
 	 * @since    1.0.0
 	 */
 	public function __construct() {
-		if ( defined( 'PLUGIN_NAME_VERSION' ) ) {
-			$this->version = PLUGIN_NAME_VERSION;
+		if ( defined( 'DITO_WOOCOMMERCE_VERSION' ) ) {
+			$this->version = DITO_WOOCOMMERCE_VERSION;
 		} else {
 			$this->version = '1.0.0';
 		}
