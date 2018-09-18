@@ -15,9 +15,9 @@
  * @wordpress-plugin
  * Plugin Name:       Dito WooCommerce
  * Plugin URI:        http://dito.com.br/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Com o plugin da Dito para WooCommerce, você poderá trackear automaticamente o comportamento das pessoas em seu site.
  * Version:           1.0.0
- * Author:            Tannus Esquerdo
+ * Author:            Dito
  * Author URI:        http://dito.com.br/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
